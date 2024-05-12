@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+	/*This shall rep the landing page*/
   <head style="background-color:rgb(136, 112, 241);">
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="../static/styles/3-footer.css?{{ cache_id }}">
     <link type="text/css" rel="stylesheet" href="../static/styles/landing-page.css?{{ cache_id }}">
         <title>Doctory</title>
+	/*here we are calling the js script*/
     <script src="../static/scripts/landingpg.js?{{ cache_id }}"></script>
   </head>
   <body>
@@ -15,12 +17,13 @@
         <img src="../static/images/cover3.jpg" class = "center" style="width:1350px; height:200px;
                                         image-rendering: -moz-crisp-edges;
                                         -ms-interpolation-mode: bicubic;"></img>
-
+        /*These shall rep the drop menu buttons*/
                     <button class="tablink" onclick="openPage('Home', this, 'red')">Doctory</button>
                     <button class="tablink" onclick="openPage('News', this, 'green')" id="defaultOpen">Usage & Features</button>
                     <button class="tablink" onclick="openPage('Contact', this, 'blue')">Contact</button>
                     <button class="tablink" onclick="openPage('About', this, 'orange')">About</button>
 
+		    /*this shall rep each menu in the drop down menu*/
                       <div id="Home" class="tabcontent">
                         <h3>Doctory</h3>
                         <p>Doctory , Booking your doctor's appointment has never been easier <br>
