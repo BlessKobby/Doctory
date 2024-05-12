@@ -8,7 +8,7 @@ so we created Doctory for you .... where you can find the best doctors and book 
 - website Link: https://doctory-book.static.domains/doctory-home
 - Usage: Using Doctory is a very simple process first you choose your location from the list of available locations we are working in
 Then you choose the specilization you want then choose between a list of the best doctors.last you book your appointment using our booking system powered by calendly
-- Licensing:
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ![doctory specBooking](https://github.com/BlessKobby/Doctory/assets/138693078/f22e317b-d9af-4c1f-8ff2-701a894ea92a)
 ![doctoeryUntitled](https://github.com/BlessKobby/Doctory/assets/138693078/3e510d0e-a329-4717-bbe3-960f6aad5d54)
+- Licensing:
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
